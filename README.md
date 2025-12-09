@@ -50,6 +50,7 @@ Right-click on the windows start menu and select PowerShell or Terminal.
 Copy-paste the below code and press enter:
 
 iwr -useb https://naeembolchhi.github.io/IDM-Activator/IDMA.ps1 | iex
+
 You will see the activation options, and follow onscreen instructions.
 
 That's all.
